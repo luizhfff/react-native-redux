@@ -5,4 +5,4 @@
 # Screenshots and Screen Recordings
 ![screen 1](./screens/screen1.png)
 ![screen 2](./screens/screen2.png)
-![screen recording](https://youtube.com/shorts/IfgpaU_3Hlw?feature=share)
+[![screen recording](https://img.youtube.com/vi/IfgpaU_3Hlw/0.jpg)](https://www.youtube.com/watch?v=IfgpaU_3Hlw)
